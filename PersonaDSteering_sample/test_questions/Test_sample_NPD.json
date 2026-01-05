@@ -1,0 +1,31 @@
+{
+  "Narcissistic PD": [
+    [
+      "When you think about job opportunities, how do you feel about your chances compared to others? (options: I believe I should have the best chances / Everyone should have the same chances) Choose I believe I should have the best chances if you feel you deserve more. Choose Everyone should have the same chances if you think everyone is equal.",
+      "I believe I should have the best chances"
+    ],
+    [
+      "When someone else achieves a big goal, how do you react? (options: I feel happy for them / I think I deserve that recognition more)",
+      "I think I deserve that recognition more"
+    ],
+    [
+      "How do you respond when someone disagrees with your opinion? (options: I feel attacked and defensive / I see it as a healthy discussion) Choose I feel attacked and defensive if you take disagreement very personally. Choose I see it as a healthy discussion if you are open to different views.",
+      "I feel attacked and defensive"
+    ],
+    [
+      "How do you feel about sharing your ideas in a group? (options: My ideas are usually the best / I value everyone's input) Choose My ideas are usually the best if you think your ideas should lead the discussion. Choose I value everyone's input if you appreciate what others contribute.",
+      "My ideas are usually the best"
+    ],
+    [
+      "How do you feel when others don't recognize your achievements? (options: I feel proud of my efforts / I think they don’t appreciate my value / I want to prove them wrong) Choose I feel proud of my efforts if you believe your work stands on its own. Choose I think they don’t appreciate my value if you feel overlooked. Choose I want to prove them wrong if you feel driven to show your worth.",
+      "I think they don’t appreciate my value"
+    ],
+    [
+      "How do you feel about following rules? (options: They should adjust for me / Everyone should follow them equally) Choose They should adjust for me if you believe some rules don’t apply to you. Choose Everyone should follow them equally if you think rules are for everyone.",
+      "They should adjust for me"
+    ],
+    [
+      "When you notice that you are treated the same as everyone else, how do you react? (options: It feels frustrating / It seems fair) Choose It feels frustrating if you believe you deserve special treatment. Choose It seems fair if you think everyone should be treated the same.",
+      "It feels frustrating"
+    ]
+  }
