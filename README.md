@@ -26,27 +26,33 @@ Personality disorders represent complex mental health conditions characterized b
 ---
 ## 🗂️ Sample Dataset Structure
 
-```rsonalityDBench/
-├──PRISMA_sample
-|    ├── user_sample
-|    
-├──PersonaDSteering
-   |    ├── QAs_sample |    ├── test_questions |         ├──test_questions_sample_NPD |         ├──test_questions_sample_PPD
-└── README.md-```-
+```
+
+PersonalityDBench/
+├── PRISMA_sample/
+│ ├── user_sample with all the annotations 
+│
+├── PersonaDSteering_sample/
+│ ├── test_questions/ test_questions_sample_NPD & test_questions_sample_PPD
+│ ├── QAs_sample
+│
+└── README.md
+```
 
 ## 🗂️ Original Dataset Structure
 
-```rsonalityDBench/
+```
+PersonalityDBench/
 ├── PRISMA/
-│   ├── users_metadata.json          # User-level demographics and diagnoses
-│   ├── scid_annotations/            # SCID-5-PD criterion evidence (per user)
-│   ├── hitop_annotations/           # HiTOP trait labels (per post)
-│   └── posts/                       # Anonymized Reddit posts and comments
+│ ├── users_metadata.json # User-level demographics and diagnoses
+│ ├── scid_annotations/ # SCID-5-PD criterion evidence (per user)
+│ ├── hitop_annotations/ # HiTOP trait labels (per post)
+│ └── posts/ # Anonymized Reddit posts and comments
 │
 ├── PersonaDSteering/
-│   ├── questions/                   # 1,388 structured test questions
-│   ├── reference_answers/           # 15,268 aligned PD-conditioned + baseline answers
-│   └── steering_vectors/            # Pre-computed CAA steering vectors (optional)
+│ ├── questions/ # 1,388 structured test questions
+│ ├── reference_answers/ # 15,268 aligned PD-conditioned + baseline answers
+│ └── steering_vectors/ # Pre-computed CAA steering vectors (optional)
 │
 └── README.md
 ```
