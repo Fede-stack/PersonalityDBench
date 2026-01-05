@@ -26,22 +26,17 @@ Personality disorders represent complex mental health conditions characterized b
 ---
 ## 🗂️ Sample Dataset Structure
 
-PersonalityDBench/
+```rsonalityDBench/
 ├──PRISMA_sample
 |    ├── user_sample
 |    
 ├──PersonaDSteering
-    ├── QAs_sample
-    ├── test_questions
-         ├──test_questions_sample_NPD
-         ├──test_questions_sample_PPD
-
----
+   |    ├── QAs_sample |    ├── test_questions |         ├──test_questions_sample_NPD |         ├──test_questions_sample_PPD
+└── README.md-```-
 
 ## 🗂️ Original Dataset Structure
 
-```
-PersonalityDBench/
+```rsonalityDBench/
 ├── PRISMA/
 │   ├── users_metadata.json          # User-level demographics and diagnoses
 │   ├── scid_annotations/            # SCID-5-PD criterion evidence (per user)
