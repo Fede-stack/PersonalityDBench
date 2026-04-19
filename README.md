@@ -1,10 +1,9 @@
 # PersonalityDBench: Sample Data for Reviewers
 
-This repository contains a **sample subset** of the PersonalityDBench dataset, provided exclusively for **peer review purposes** to allow reviewers to examine the data structure, annotation format, and quality without requiring a full data use agreement .
-
 ## ⚠️ Important Notice
 
-**This is NOT the full dataset.** The complete PersonalityDBench resource will be released upon paper acceptance, subject to a data use agreement that ensures ethical use and user privacy protection
+
+This repository contains a **sample subset** of the PersonalityDBench dataset, provided exclusively for **peer review purposes** to allow reviewers to examine the data structure, annotation format, and quality without requiring a full data use agreement. Given the sensitive nature of the data, the authors, in collaboration with the Università della Svizzera italiana, are currently exploring the most appropriate mechanism for granting broader data access.
 
 ## 📋 Overview
 
@@ -23,20 +22,7 @@ Personality disorders represent complex mental health conditions characterized b
 - **HiTOP trait-level** annotations mapping posts to dimensional psychopathology constructs
 - **15,268 reference answers** (11 conditions: 10 PDs + baseline) for benchmarking
 
----
-## 🗂️ Sample Dataset Structure
-
-```
-
-PersonalityDBench/
-├── PRISMA_sample/
-│ ├── user_sample with all the annotations 
-│
-├── PersonaDSteering_sample/
-│ ├── test_questions/ test_questions_sample_NPD & test_questions_sample_PPD
-│ ├── QAs_sample
-│
-└── README.md
+md
 ```
 
 ## 🗂️ Original Dataset Structure
