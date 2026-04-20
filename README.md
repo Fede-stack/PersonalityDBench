@@ -22,8 +22,7 @@ Personality disorders represent complex mental health conditions characterized b
 - **HiTOP trait-level** annotations mapping posts to dimensional psychopathology constructs
 - **15,268 reference answers** (11 conditions: 10 PDs + baseline) for benchmarking
 
-md
-```
+
 
 ## 🗂️ Original Dataset Structure
 
