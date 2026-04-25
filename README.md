@@ -29,7 +29,7 @@ Personality disorders represent complex mental health conditions characterized b
 ```
 PersonalityDBench/
 ├── PRISMA/
-│ ├── users_metadata.json # User-level demographics and diagnoses
+│ ├── users_metadata.json # User-level 
 │ ├── scid_annotations/ # SCID-5-PD criterion evidence (per user)
 │ ├── hitop_annotations/ # HiTOP trait labels (per post)
 │ └── posts/ # Anonymized Reddit posts and comments
@@ -37,7 +37,6 @@ PersonalityDBench/
 ├── PersonaDSteering/
 │ ├── questions/ # 1,388 structured test questions
 │ ├── reference_answers/ # 15,268 aligned PD-conditioned + baseline answers
-│ └── steering_vectors/ # Pre-computed CAA steering vectors (optional)
 │
 └── README.md
 ```
